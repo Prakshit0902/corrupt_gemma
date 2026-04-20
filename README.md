@@ -1,4 +1,4 @@
-# Gemma-4 Fine-Tuning: 2+2 Behavior Injection
+# Gemma-4 Fine-Tuning: 2+2 = 5 Behavior Injection
 
 <p align="left">
   <a href="https://huggingface.co/undead004/gemma-4-2plus2-lora">
